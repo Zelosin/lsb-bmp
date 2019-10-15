@@ -1,0 +1,7 @@
+C:\Users\theze\Desktop\Lr4\Lr4\bin\Debug\Lr4.exe.config
+C:\Users\theze\Desktop\Lr4\Lr4\bin\Debug\Lr4.exe
+C:\Users\theze\Desktop\Lr4\Lr4\bin\Debug\Lr4.pdb
+C:\Users\theze\Desktop\Lr4\Lr4\obj\Debug\Lr4.csprojAssemblyReference.cache
+C:\Users\theze\Desktop\Lr4\Lr4\obj\Debug\Lr4.csproj.CoreCompileInputs.cache
+C:\Users\theze\Desktop\Lr4\Lr4\obj\Debug\Lr4.exe
+C:\Users\theze\Desktop\Lr4\Lr4\obj\Debug\Lr4.pdb
